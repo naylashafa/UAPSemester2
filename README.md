@@ -20,8 +20,8 @@ Program ini menggunakan konsep Object-Oriented Programming (OOP):
 Link Program
 Tautan File
 Klik untuk melihat langsung di GitHub:
-- Bentuk.java: github.com/naylashafa/UAPSemester2/Bentuk.java
-- CetakanDonat.java: github.com/naylashafa/UAPSemester2/CetakanDonat.java
-- KalkulatorPabrik.java: github.com/naylashafa/UAPSemester2/KalkulatorPabrik.java
-- Sphere.java: github.com/naylashafa/UAPSemester2/Sphere.java
-- Torus.java: github.com/naylashafa/UAPSemester2/Torus.java
+- Bentuk.java: [github.com/naylashafa/UAPSemester2/Bentuk.jav](https://github.com/naylashafa/UAPSemester2/blob/df4024709f2f540c440b52c67891706947eb96f8/Sphere.java)
+- CetakanDonat.java: [github.com/naylashafa/UAPSemester2/CetakanDonat.java](https://github.com/naylashafa/UAPSemester2/blob/df4024709f2f540c440b52c67891706947eb96f8/CetakanDonat.java)
+- KalkulatorPabrik.java: [github.com/naylashafa/UAPSemester2/KalkulatorPabrik.java](https://github.com/naylashafa/UAPSemester2/blob/df4024709f2f540c440b52c67891706947eb96f8/KalkulatorPabrik.java)
+- Sphere.java: [github.com/naylashafa/UAPSemester2/Sphere.java](https://github.com/naylashafa/UAPSemester2/blob/df4024709f2f540c440b52c67891706947eb96f8/Sphere.java)
+- Torus.java: [github.com/naylashafa/UAPSemester2/Torus.java](https://github.com/naylashafa/UAPSemester2/blob/df4024709f2f540c440b52c67891706947eb96f8/Torus.java)
