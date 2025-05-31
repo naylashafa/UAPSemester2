@@ -1,12 +1,17 @@
 package uap.bases;
 
-public abstract class CetakanDonat {
+import uap.interfaces.Bentuk;
+
+public abstract class CetakanDonat implements Bentuk {
     protected static final int pi_num = 22;
     protected static final int pi_deno = 7;
     protected static final double tebal = 0.5;
     protected static final double densitas = 8.0;
 
+    @Override
     public abstract double getVolume();
+
+    @Override
     public abstract double getLuasPermukaan();
 
     public double getMassa() {
